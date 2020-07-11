@@ -1,0 +1,77 @@
+
+@font-face{
+    font-family: montserrat;
+    src:url(Montserrat-Thin)
+}
+
+img{
+    width: 883px;
+    height: 374px;
+}
+.letra1{
+    font-weight: 900;
+    font-size: 89px;
+    line-height: 79px;
+    color: #ffb300;
+}
+#parra1{
+    font-weight: bold;
+    font-size: 21px;
+    color: black;
+    text-align: right;
+}
+#parra2{
+    font-weight:600;
+    font-size: 21px;
+    line-height: 1.61;
+    color: black;
+    
+}
+hr{
+    border-style: 5px;
+    color: #999999;
+    
+}
+strong{
+    font-weight: 900;
+}
+#parra3{
+    font-size: 21px;
+    font-weight: medium;
+}
+#parra4{
+    font-size: 21px;
+    font-weight: medium;
+}
+.letra2{
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 10px;
+    color: #ffb300;
+
+}
+ul{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 21px*1.61;
+}
+.letra3{
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 10px;
+    color: #ffb300;
+}
+ol{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 21px*1.61;
+}
+iframe{
+    width: 883px;
+    height: 374px;
+}
+#final{
+    font-size: 21px;
+    font-weight: 900;
+    color: #0037B3;
+}
